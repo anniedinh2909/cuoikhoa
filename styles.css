@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('https://www.bestseocompanies.com/wp-content/uploads/2012/05/17580-613x460.jpg');
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+#container1 {
+    display: flex;
+}
+.tieude {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    padding: 35px;
+    font-size: 40px;
+}
+.right {
+    width: 100%;
+}
+.left {
+    width: 250px;
+    height: 100vh;
+    padding: 10px;
+    text-align: center;
+    background-color: aliceblue;
+}
+.container {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+    font-family: "Comfortaa", sans-serif;
+    letter-spacing: 1.8px;
+    line-height: 17px;
+}
+.content {
+    display: flex;
+    text-align: left;
+    gap: 20px;
+}
+.lienhe {
+    width: 100%;
+    height: 100px;
+    background-color: beige;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    padding: 35px;
+    font-size: 40px;
+}
+.list {
+    text-decoration: none;
+    text-align: justify;
+    padding: 20px;
+}
+a {
+    color: black;
+}
+.s1hinh {
+    width: 150px;
+    height: 200px;
+}
+.s1 {
+    display: flex;
+    flex-direction: column;
+}
+.menu {
+    display: flex;
+}
+.muc1 {
+    display: inline-block;
+    font-size: 17px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: "Comfortaa", sans-serif;
+    line-height: 20px;
+    letter-spacing: 1.5;
+}
+.muc1noidung {
+    display: none;
+    color: gray;
+}
+.muc1:hover .muc1noidung {
+    display: flex;
+}
+.muc2 {
+    display: inline-block;
+    font-size: 17px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: "Comfortaa", sans-serif;
+    line-height: 20px;
+    letter-spacing: 1.5;
+}
+.muc2noidung {
+    display: none;
+    color: gray;
+}
+.muc2:hover .muc2noidung {
+    display: block;
+}
+.muc3 {
+    display: inline-block;
+    font-size: 17px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: "Comfortaa", sans-serif;
+    line-height: 20px;
+    letter-spacing: 1.5;
+}
+.muc3noidung {
+    display: none;
+    color: gray;
+}
+.muc3:hover .muc3noidung {
+    display: block;
+}
+.muc4 {
+    display: inline-block;
+    font-size: 17px;
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: "Comfortaa", sans-serif;
+    line-height: 20px;
+    letter-spacing: 1.5;
+}
+.muc4noidung {
+    display: none;
+    color: gray;
+}
+.muc4:hover .muc4noidung {
+    display: block;
+}
+h3 {
+    font-size: 30px;
+    font-family: "Comfortaa", sans-serif;
+}
+.gmail {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+}
+.instagram {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+}
